@@ -14,8 +14,8 @@ Revision: Assemblies with the same name, major, and minor version numbers but di
           A higher revision number might be used in a build that fixes a security hole in a previously released assembly.
           
 확장자 csproj 에 추가 작업
-<AssemblyVersion>22.07.*</AssemblyVersion>
-<Deterministic>false</Deterministic>
+.<AssemblyVersion>22.07.*</AssemblyVersion>
+.<Deterministic>false</Deterministic>
 
 ![image](https://user-images.githubusercontent.com/72923266/179133588-763aecc2-bb96-4c30-8f34-05675b4661ac.png)
 
