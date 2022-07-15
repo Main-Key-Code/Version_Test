@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyVersion>22.07.*</AssemblyVersion>
+    <Deterministic>false</Deterministic>
+    <Copyright>Copyright ⓒ 2022</Copyright>
+  </PropertyGroup>
+
+</Project>
